@@ -43,3 +43,7 @@ This Kibana analysis seeks to provide insights to support public health advisori
 ## Kibana Conclusion 📈
 
 The visualizations reveal that although half of the cities maintain acceptable AQI levels, an alarming 12% endure unhealthy air conditions. Supported by data from the EPA and New York State Department of Health, the findings emphasize the critical need to enhance air quality in 26% of Indonesian cities, including Jakarta, which likely affects nearby areas. Expanding future analyses to specific city sections could yield more detailed insights for targeted local interventions.
+
+## Dataset
+
+[World Air Quality Index by City and Coordinates](https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates)
