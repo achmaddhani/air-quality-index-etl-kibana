@@ -1,3 +1,9 @@
+"""
+Achmad Dhani
+
+Objective: Creating a function file to export cleaned data to elasticsearch
+"""
+
 import pandas as pd
 from elasticsearch import Elasticsearch
 from elasticsearch.helpers import bulk

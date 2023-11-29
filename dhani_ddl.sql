@@ -1,3 +1,9 @@
+"""
+Achmad Dhani
+
+Objective: Creating a ddl for sql query to create a table in SQL
+"""
+
 CREATE TABLE table_m3 (
     id SERIAL PRIMARY KEY,
     "Country" VARCHAR(255),           

@@ -1,3 +1,9 @@
+"""
+Achmad Dhani
+
+Objective: Creating a function file to for cleaning data
+"""
+
 import pandas as pd
 import requests
 

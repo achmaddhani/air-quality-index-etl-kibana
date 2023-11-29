@@ -1,3 +1,9 @@
+"""
+Achmad Dhani
+
+Objective: Creating a function file for loading the data from SQL
+"""
+
 import pandas as pd
 from sqlalchemy import create_engine
 
