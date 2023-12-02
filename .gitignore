@@ -1,3 +1,4 @@
 gx
 /container/logs
 /container/plugins
+/container/.env
